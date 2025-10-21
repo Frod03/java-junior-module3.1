@@ -100,3 +100,4 @@ public class ZeroSteps1 {
         return (char) ((ch1 + ch2) / 2);
     }
 }
+
